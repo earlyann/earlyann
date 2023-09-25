@@ -20,4 +20,14 @@ Python, Flask, Django, MongoDB, PostGres, Tableau, PowerBI, Apache Airflow, Kafk
 
 ![Python Powered](./assets/python-powered-h-50x65.png)
 ![PostgreSQL](./assets/resized_PostgreSQL.png) 
+![Django](./assets/resized_django-logo-negative.png)
+![Flask](./assets/resized_flask-logo.png)
+![MongoDB](./assets/resized_MongoDB-Logo.png)
+![Tableau](./assets/resized_TableauLogo_RGB.png)
+![Airflow](./assets/resized_AirflowLogo.png)
+![Kafka](./assets/resized_kafka_highres.png)
+![AWS](./assets/resized_PB_AWS.png)
+
+
+
 
