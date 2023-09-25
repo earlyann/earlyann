@@ -18,7 +18,7 @@ Kaggle Competitions: Especially in the areas of Natural Language Processing (NLP
 🛠️ Languages and Tools:
 Python, Flask, Django, MongoDB, PostGres, Tableau, PowerBI, Apache Airflow, Kafka, AWS, Sci-KitLearn, Tensorflow 
 
-![Python](./assets/icons8-python.gif)
+![Python](./assets/python-powered-w-200x80.png)
 ![Flask](./assets/icons8-flask-96.png)
 ![PostgreSQL](./assets/icons8-postgresql-96.png)
 ![Tableau](./assets/icons8-tableau-software-96.png)
