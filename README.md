@@ -1,16 +1,17 @@
-### Hi there 👋
+Data Analyst 👨‍💻 | Data Engineer 🛠️ | Data Scientist 📊 | Kaggle Competitor 🏆 | AI Enthusiast 🤖
+About Me 📝
 
-<!--
-**earlyann/earlyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, and Tableau Data Visualization 📊. My expertise lies in data analysis, data engineering, and data science. I'm passionate about transforming raw data into actionable insights, predictive models, and interactive dashboards. Outside of my day-to-day work, I'm an active Kaggle competitor and an AI research enthusiast, particularly in the realm of AI agents.
 
-Here are some ideas to get you started:
+🔭 I’m Currently Working On
+Kaggle Competitions: Sharpening my data science skills through real-world challenges
+AI Agents: Experimenting with machine learning models for automated data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m Currently Learning
+AWS: Actively pursuing certification to deepen my cloud computing skills
+AI Agent Development: Exploring applications of AI agents in data analytics
+
+👯 I’m Looking To Collaborate On
+Open-Source Python Projects: Particularly those focused on data analytics, machine learning, and AI
+Kaggle Competitions: Especially in the areas of Natural Language Processing (NLP) and Computer Vision
+
