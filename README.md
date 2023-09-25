@@ -19,7 +19,10 @@ Kaggle Competitions: Especially in the areas of Natural Language Processing (NLP
 Python, Flask, Django, MongoDB, PostGres, Tableau, PowerBI, Apache Airflow, Kafka, AWS, Sci-KitLearn, Tensorflow 
 
 ![Python](./assets/icons8-python.gif)
-
+![Flask](./assets/icon8-flask-96.png)
+![PostgreSQL](./assets/icon8-postgresql-96.png)
+![Tableau](./assets/icon8-tableau-software-96.png)
+![MongoDB](./assets/mongo-db-96.png)
 
 
 <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
