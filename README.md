@@ -1,7 +1,7 @@
 Data Analyst 👨‍💻 | Data Engineer 🛠️ | Data Scientist 📊 | Kaggle Competitor 🏆 | AI Enthusiast 🤖
 About Me 📝
 
-I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, and Tableau Data Visualization 📊. My expertise lies in data analysis, data engineering, and data science. I'm passionate about transforming raw data into actionable insights, predictive models, and interactive dashboards. Outside of my day-to-day work, I'm an active Kaggle competitor and an AI research enthusiast, particularly in the realm of AI agents.
+I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, and Tableau Data Visualization 📊. My expertise lies in data analysis, data engineering, and data science. I'm passionate about transforming raw data into actionable insights, predictive models, beautiful visualizations, and interactive dashboards. Outside of my day-to-day work, I'm an active Kaggle competitor and an AI research enthusiast, particularly in the realm of AI agents.
 
 🔭 I’m Currently Working On
 Kaggle Competitions: Sharpening my data science skills through real-world challenges
