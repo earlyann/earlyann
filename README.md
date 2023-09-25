@@ -5,11 +5,11 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 
 🔭 I’m Currently Working On
 - Kaggle Competitions: Sharpening my data science skills through real-world challenges
-- AI Agents: Experimenting with machine learning models for automated data analysis
+- Building different and interesting AI applications using Llama2, CodeLlama, OpenAI, 
 
 🌱 I’m Currently Learning:
 - AWS: Actively pursuing certification to deepen my cloud computing skills
-AI Agent Development: Exploring applications of AI agents in data analytics
+- AI Agent Development: Exploring applications of AI agents in data analytics
 
 👯 I’m Looking To Collaborate On
 - Open-Source Python Projects: Particularly those focused on data analytics, machine learning, and AI
