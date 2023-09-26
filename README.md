@@ -25,7 +25,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 ![MongoDB](./assets/icons8-mongo-db-96.png)
 ![Tableau](./assets/icons8-tableau-software-96.png)
 <img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
-![Spark](./assets/spark_icon.png)
+<img src="./assets/spark_icon.png" alt="Airflow" width="200" height="200">
 <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="175" height="75">
 <img src="./assets/tf_icon.png" alt="Scikit-Learn" width="450" height="250">
 
