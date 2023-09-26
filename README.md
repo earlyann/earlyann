@@ -25,6 +25,10 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 ![Tableau](./assets/icons8-tableau-software-96.png)
 ![MongoDB](./assets/icons8-mongo-db-96.png)
 <img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
+<img scr="./assets/django.png" alt="Python Django" width="175" height="75">
+<img scr="./assets/Scikit-learn.png" alt="Scikit-Learn" width="175" height="75">
+<img scr="./assets/tensorflow-icon.png" alt="Tensorflow" width="175" height="175">
+
 
 
 <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
