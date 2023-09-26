@@ -24,7 +24,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 ![PostgreSQL](./assets/icons8-postgresql-96.png)
 ![Tableau](./assets/icons8-tableau-software-96.png)
 ![MongoDB](./assets/icons8-mongo-db-96.png)
-<img src="./assets/resized_airflow-1.png" alt="Airflow" width="250" height="100">
+<img src="./assets/resized_airflow-1.png" alt="Airflow" width="100" height="45">
 
 
 <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
