@@ -27,7 +27,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 <img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
 ![Spark](./assets/spark_icon.png)
 <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="175" height="75">
-<img src="./assets/tf_icon.png" alt="Scikit-Learn" width="175" height="75">
+<img src="./assets/tf_icon.png" alt="Scikit-Learn" width="250" height="125">
 
 
 
