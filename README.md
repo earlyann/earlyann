@@ -3,7 +3,7 @@
 I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, and Tableau Data Visualization 📊. Outside of my day-to-day work, I'm an active Kaggle competitor and an AI research enthusiast.
 
 🔭 I’m Currently Working On
-- Looking for a job!! 
+- Looking for a job. 
 - Kaggle Competitions: Sharpening my data science skills through real-world challenges
 - Building interesting AI applications using Llama2, CodeLlama, OpenAI, and on
 
