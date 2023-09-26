@@ -27,7 +27,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 <img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
 <img src="./assets/django.png" alt="Python Django" width="175" height="75">
 <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="175" height="75">
-<img src="./assets/tensorflow-icon.png" alt="Tensorflow" width="175" height="175">
+![Tensorflow](./assets/tensorflow-icon.png)
 
 
 
