@@ -17,17 +17,18 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 - Kaggle Competitions: Especially in the areas of Natural Language Processing (NLP) and Computer Vision
 
 🛠️ Languages and Tools:
-- Python, Flask, Django, MongoDB, PostGres, Tableau, PowerBI, Apache Airflow, Kafka, AWS, Sci-KitLearn, Tensorflow 
+- Python, Flask, Django, PostgreSQL, MongoDB, Tableau, PowerBI, Apache Airflow, Apache Spark, AWS, Sci-KitLearn, Tensorflow 
 
 ![Python](./assets/python-powered-w-200x80.png)
 ![Flask](./assets/icons8-flask-96.png)
-![PostgreSQL](./assets/icons8-postgresql-96.png)
-![Tableau](./assets/icons8-tableau-software-96.png)
-![MongoDB](./assets/icons8-mongo-db-96.png)
-<img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
 <img src="./assets/django.png" alt="Python Django" width="175" height="75">
+![PostgreSQL](./assets/icons8-postgresql-96.png)
+![MongoDB](./assets/icons8-mongo-db-96.png)
+![Tableau](./assets/icons8-tableau-software-96.png)
+<img src="./assets/resized_airflow-1.png" alt="Airflow" width="175" height="75">
+![Spark](./assets/spark_icon.png)
 <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="175" height="75">
-![Tensorflow](./assets/tensorflow-icon.png)
+![Tensorflow](./assets/tf_icon.png)
 
 
 
