@@ -17,12 +17,13 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 🛠️ Languages and Tools:
 - Python, Flask, Django, PostgreSQL, MongoDB, Tableau, PowerBI, Apache Airflow, Apache Spark, AWS, Sci-KitLearn, Tensorflow 
 
-![Python](./assets/python-powered-w-200x80.png)
-![Flask](./assets/icons8-flask-96.png)
+
+<img src="./assets/python-powered-w-200x80.png" alt="Python" width="175" height="75">
+<img src="./assets/icons8-flask-96.png" alt="Flask" width="175" height="75">
 <img src="./assets/django.png" alt="Python Django" width="175" height="75">
-![PostgreSQL](./assets/icons8-postgresql-96.png)
-![MongoDB](./assets/icons8-mongo-db-96.png)
-![Tableau](./assets/icons8-tableau-software-96.png)
+<img src="./assets/icons8-postgresql-96.png" alt="Postgres" width="175" height="75">
+<img src="./assets/icons8-mongo-db-96.png" alt="MongoDB" width="175" height="75">
+<img src="./assets/icons8-tableau-software-96.png" alt="Tableau" width="175" height="75">
 <img src="./assets/resized_airflow-1.png" alt="Apache Airflow" width="175" height="75">
 <img src="./assets/spark_icon.png" alt="Apache Spark" width="85" height="85">
 <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="150" height="65">
