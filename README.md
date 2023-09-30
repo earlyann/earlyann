@@ -19,7 +19,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 
 
 <img src="./assets/python-powered-w-200x80.png" alt="Python" width="190" height="71">
-<img src="./assets/icons8-flask-96.png" alt="Flask" width="96" height="58">
+<img src="./assets/icons8-flask-96.png" alt="Flask" width="96" height="96">
 <img src="./assets/django.png" alt="Python Django" width="96" height="58">
 <img src="./assets/icons8-postgresql-96.png" alt="Postgres" width="96" height="56">
 <img src="./assets/icons8-mongo-db-96.png" alt="MongoDB" width="96" height="58">
