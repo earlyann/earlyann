@@ -18,17 +18,18 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 - Python, Flask, Django, PostgreSQL, MongoDB, Tableau, PowerBI, Apache Airflow, Apache Spark, AWS, Sci-KitLearn, Tensorflow 
 
 <div align="center">
-  <img src="./assets/python-powered-w-200x80.png" alt="Python">
-  <img src="./assets/icons8-flask-96.png" alt="Flask">
-  <img src="./assets/django.png" alt="Python Django" width="100" height="50">
-  <img src="./assets/icons8-postgresql-96.png" alt="Postgres">
-  <img src="./assets/icons8-mongo-db-96.png" alt="MongoDB">
-  <img src="./assets/icons8-tableau-software-96.png" alt="Tableau" width="85" height="85">
-  <img src="./assets/resized_airflow-1.png" alt="Apache Airflow" width="175" height="75">
-  <img src="./assets/spark_icon.png" alt="Apache Spark" width="85" height="85">
-  <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="150" height="65">
+  <img src="./assets/python-powered-w-200x80.png" alt="Python" width="190" height="71">&nbsp;&nbsp;
+  <img src="./assets/icons8-flask-96.png" alt="Flask">&nbsp;&nbsp;
+  <img src="./assets/django.png" alt="Python Django" width="100" height="50">&nbsp;&nbsp;
+  <img src="./assets/icons8-postgresql-96.png" alt="Postgres">&nbsp;&nbsp;
+  <img src="./assets/icons8-mongo-db-96.png" alt="MongoDB">&nbsp;&nbsp;
+  <img src="./assets/icons8-tableau-software-96.png" alt="Tableau" width="85" height="85">&nbsp;&nbsp;
+  <img src="./assets/resized_airflow-1.png" alt="Apache Airflow" width="175" height="75">&nbsp;&nbsp;
+  <img src="./assets/spark_icon.png" alt="Apache Spark" width="85" height="85">&nbsp;&nbsp;
+  <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="150" height="65">&nbsp;&nbsp;
   <img src="./assets/tf_icon.png" alt="Tensorflow" width="250" height="125">
 </div>
+
 
 
 
