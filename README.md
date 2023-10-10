@@ -18,7 +18,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 - Python, Flask, Django, PostgreSQL, MongoDB, Tableau, PowerBI, Apache Airflow, Apache Spark, AWS, Sci-KitLearn, Tensorflow 
 
 <div align="center">
-  <img src="./assets/python-powered-w-200x80.png" alt="Python" width="200" height="74">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python-powered-w-200x80.png" alt="Python" width="225" height="90">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons8-flask-96.png" alt="Flask">&nbsp;&nbsp;
   <img src="./assets/django.png" alt="Python Django" width="100" height="50">&nbsp;&nbsp;
   <img src="./assets/icons8-postgresql-96.png" alt="Postgres">&nbsp;&nbsp;
