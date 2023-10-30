@@ -26,7 +26,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
   <img src="./assets/icons8-tableau-software-96.png" alt="Tableau" width="85" height="85">&nbsp;&nbsp;
   <img src="./assets/resized_airflow-1.png" alt="Apache Airflow" width="150" height="60">&nbsp;&nbsp;
   <img src="./assets/spark_icon.png" alt="Apache Spark" width="75" height="75">&nbsp;&nbsp;
-  <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="150" height="65">&nbsp;&nbsp;
+  <img src="./assets/Scikit_learn.png" alt="Scikit-Learn" width="145" height="60">&nbsp;&nbsp;
   <img src="./assets/tf_icon.png" alt="Tensorflow" width="250" height="125">
 </div>
 
