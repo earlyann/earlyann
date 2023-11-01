@@ -1,7 +1,7 @@
 ### Full Stack Data Analyst 
 I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, Tableau, and PowerBI Data Visualization 📊. Outside of my day-to-day work, I'm an active Kaggle machine-learning competitor and an AI research enthusiast. 
 
-🛠 I’m Currently Working On:
+💻 I’m Currently Working On:
 - Looking for a job. 
 - Kaggle Competitions: Sharpening my data science skills through real-world challenges
 - Building interesting AI applications using Llama2, CodeLlama, Mistral, OpenAI, and on and on
