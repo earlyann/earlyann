@@ -7,7 +7,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 - Building interesting AI applications using Llama2, CodeLlama, Mistral, OpenAI, and on and on
 
 🌱 I’m Currently Learning:
-- AWS: Actively pursuing certification to strengthen my cloud computing skills
+- AWS: Actively pursuing certification to strengthen my cloud skills
 - AI Agent Development: Exploring applications of AI agents in data analytics
 
 🚀 I’m Looking To Collaborate On:
