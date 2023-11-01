@@ -4,7 +4,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 🏗 I’m Currently Working On
 - Looking for a job. 
 - Kaggle Competitions: Sharpening my data science skills through real-world challenges
-- Building interesting AI applications using Llama2, CodeLlama, OpenAI, and on
+- Building interesting AI applications using Llama2, CodeLlama, Mistral, OpenAI, and on and on
 
 🌱 I’m Currently Learning:
 - AWS: Actively pursuing certification to strengthen my cloud computing skills
