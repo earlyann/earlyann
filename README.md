@@ -1,5 +1,5 @@
-### Data Analyst 👨‍💻 | Data Engineer 🛠️ | Data Scientist 📊 | Kaggle Competitor 🏆 | AI Enthusiast 🤖
-I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, and Tableau Data Visualization 📊. Outside of my day-to-day work, I'm an active Kaggle competitor and an AI research enthusiast.
+### Full Stack Data Analyst 
+I'm a multi-faceted data professional specializing in Python Programming 🐍, SQL Database Management 🗃️, Tableau, and PowerBI Data Visualization 📊. Outside of my day-to-day work, I'm an active Kaggle machine-learning competitor and an AI research enthusiast. 
 
 🏗 I’m Currently Working On
 - Looking for a job. 
