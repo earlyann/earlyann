@@ -12,7 +12,7 @@ I'm a multi-faceted data professional specializing in Python Programming 🐍, S
 
 🚀 I’m Looking To Collaborate On:
 - Open-source Python Projects: Particularly those focused on data analytics, machine learning, and AI
-- Kaggle Competitions: Especially in the areas of Natural Language Processing (NLP) and Computer Vision
+- Kaggle Competitions
 
 🛠️ Languages and Tools:
 - Python, Flask, Django, PostgreSQL, MongoDB, Tableau, PowerBI, Apache Airflow, Apache Spark, AWS, Sci-KitLearn, Tensorflow 
